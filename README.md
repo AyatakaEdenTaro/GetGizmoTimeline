@@ -1,4 +1,5 @@
 # GetGizmoTimeline
+Gizmoのサイトをスクレイピングします
 
 ## スクレイピングするリンク
 https://www.gizmodo.jp/
